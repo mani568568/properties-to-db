@@ -1,4 +1,4 @@
-package com.loader;
+package com.loader.exception;
 
 public class InValidFileException extends RuntimeException {
 
